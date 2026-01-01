@@ -162,7 +162,7 @@ US (NTSC) games may work but are not officially tested.
 - **Very demanding games** (Soul Blade, Tekken 3, Ridge Racer Type 4) are not playable at acceptable framerates
 - **No analog stick support** - digital controls only
 - **Single player only** - no multiplayer
-- **No memory card GUI** - save states work via menu
+- **Memory card GUI** - save states don't work, use memory card instead.
 - **Audio sync issues** in some games at low cycle values
 
 ## Build Instructions
